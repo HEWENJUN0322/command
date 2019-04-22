@@ -62,6 +62,6 @@ class AutoShopCommand extends Command
             \Log::error('商品自动化上架失败',$e->getMessage());
         }
 
-     
+      
     }
 }
